@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DivisibleWithNoRemainder\Divisible.csproj" />
+    <ProjectReference Include="..\Divisible\Divisible.csproj" />
   </ItemGroup>
 
 </Project>
