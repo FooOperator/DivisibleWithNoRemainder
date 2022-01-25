@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleWithNoRemainder", "DivisibleWithNoRemainder.csproj", "{16B836A3-9704-490C-AC70-795EC482B027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleWithNoRemainderTest", "..\DivisibleWithNoRemainderTest\DivisibleWithNoRemainderTest.csproj", "{9FEA62C9-69B7-4F09-BC7B-AAE354B95961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B836A3-9704-490C-AC70-795EC482B027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B836A3-9704-490C-AC70-795EC482B027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B836A3-9704-490C-AC70-795EC482B027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B836A3-9704-490C-AC70-795EC482B027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEA62C9-69B7-4F09-BC7B-AAE354B95961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEA62C9-69B7-4F09-BC7B-AAE354B95961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEA62C9-69B7-4F09-BC7B-AAE354B95961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEA62C9-69B7-4F09-BC7B-AAE354B95961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C684475E-346E-4181-AF7C-9C9232E55DD1}
+	EndGlobalSection
+EndGlobal
